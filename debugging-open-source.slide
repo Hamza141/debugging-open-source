@@ -1,0 +1,90 @@
+Debugging open source projects
+Tags: open source, debugging
+
+Hamza Farrukh
+Software Engineer, FactSet
+hamzafarrukh141@gmail.com
+
+
+* What is a bug?
+- Something that causes an unexpected output or behavior
+- E.g. Off by one, memory leak, etc
+.image ./images/bug.webp 250 _
+# https://cdn4.iconfinder.com/data/icons/computer-technology-6/64/Bug-database-computer-virus-512.png
+
+* How do we prevent bugs?
+- Keep code simple
+- Use robust, existing libraries
+- Write TESTS!!!
+- Call the bug a feature?
+# https://simpleprogrammer.com/reduce-software-bugs-quality-code/
+.image ./images/feature-bug.jpeg 250 _
+# https://miro.medium.com/max/875/1*-6Chq5Y5MCsqX4-Y5pz4pg.jpeg
+
+* How do we find these sneaky bugs?
+- Print statements
+- Rubber duck
+- Debugger
+.image ./images/rubber-duck.png 350 _
+# https://schylling.com/wp-content/uploads/2020/08/RDKY-Classic-Yellow-Rubber-Duck_web-1024x1024.jpg
+
+* Common debgger features
+- Breakpoints
+- View and set values of variables
+- Call stack
+.image ./images/intellij-debugger.png 350 _
+# https://blog.jetbrains.com/wp-content/uploads/2013/10/idea-Screen-Shot-2013-10-17-at-12.07.57-PM.png
+
+* Debugger demos
+
+* Open source
+
+* What is open source?
+- Code available freely online
+- Anyone can view, use and modify it
+.image ./images/open-source.jpg
+# https://www.aspira.ie/wp-content/uploads/2016/07/bartopen_source_10932-600x330.jpg
+
+* Why bother contributing?
+- Learn new skills
+- Is rewarding
+- Make the world a better place, one commit at a time 😀
+.image ./images/force-push.jpg 300 _
+# https://external-preview.redd.it/r-qBNaCfT478u0bRQ5ZAWs_MUmRV6Ll2JrT2-8PvA5Y.jpg?auto=webp&s=d4d7b85ca8bb1dfd2c07fec242b45ccdb372f8f7
+
+* What can I contribute?
+- Documentation
+- Tests
+- Bug fixes
+- New features
+- Refactoring
+- Start your own project!!!
+.image ./images/fame.png 250 _
+# https://miro.medium.com/max/625/0*aBMfrm3TuAwX0jyW.png
+
+* Choosing a project
+- Something you already use
+- Interesting new tech
+.link https://github.com/collections/choosing-projects https://github.com/collections/choosing-projects
+.image ./images/choosing.webp 300 _
+# https://www.lifewire.com/thmb/ZKDvi8S1rz72Vu53mZdyjYHHYco=/2200x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-search-engines-2483352-8cbda67ac96d4bc789f39e7ce61278d5.png
+
+* Contribution tips
+- Start small
+- Don't break existing code
+- Try to learn from reviewer's suggestions
+.image ./images/code-reviews.jpg 350 _
+# https://i.redd.it/93g8kq6v40541.jpg
+
+* My experience
+- Found the bug during our internal training
+- Ended up spending a week wrapping my head around it
+- Solution was completely different than what I expected
+.image ./images/staring.jpg 350 _
+# https://littlevillagemag.com/wp-content/uploads/2020/04/computer-meme-2.jpg
+
+* Links
+.link https://github.com/golang/go/issues/41139 https://github.com/golang/go/issues/41139
+.link https://github.com/golang/tools/commit/76a6aac657c733d8b9c72f360162afa2fbd0acb0 https://github.com/golang/tools/commit/76a6aac657c733d8b9c72f360162afa2fbd0acb0
+
+* Demo
