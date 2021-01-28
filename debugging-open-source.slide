@@ -28,7 +28,7 @@ hamzafarrukh141@gmail.com
 .image ./images/rubber-duck.png 350 _
 # https://schylling.com/wp-content/uploads/2020/08/RDKY-Classic-Yellow-Rubber-Duck_web-1024x1024.jpg
 
-* Common debgger features
+* Common debugger features
 - Breakpoints
 - View and set values of variables
 - Call stack
